@@ -21,7 +21,9 @@ If you still have no idea what to do, Head to these link, Go through them & Just
 Try these links for an alternate explaination to get things in your head
 
 [Github Branch WorkFlow Diagram](https://gist.github.com/digitaljhelms/4287848#workflow-diagram "Github Branch WorkFlow Diagram")
+
 [Git/Github Branch naming Standards](https://gist.github.com/digitaljhelms/4287848 "Branch naming Standards")
+
 [Git/Github Branch naming Conventions](https://gist.github.com/revett/88ee5abf5a9a097b4c88 "Branch naming Conventions")
 
 Blog : [Branch Naming Conventions](https://allenan.com/git-branch-naming-conventions/)
